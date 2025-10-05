@@ -8,4 +8,4 @@ This data was obtained from Kaggle
 
 #DASHBOARD
 [AB_NYC_2019](
-![AB_NYC_2019](https://github.com/user-attachments/assets/bbaf0fd8-0ab5-4305-ab0a-377fc157b525)
+![AB_NYC_2019](![AB_NYC_2019](https://github.com/user-attachments/assets/ddbaf1eb-083a-4919-affd-1b7bcfd9420e).jpg)

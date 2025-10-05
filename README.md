@@ -7,4 +7,5 @@ This data was obtained from Kaggle
 
 
 #DASHBOARD
-[New_York_City_](![New_York_City_](https://github.com/user-attachments/assets/83756e76-95bf-493f-a767-b65582fe7ad0)
+[New_York_City_](![New_York_City_](https://github.com/user-attachments/assets/b3bf2bb3-6ed4-4a1b-b2cb-7a0d886eb31e)
+
